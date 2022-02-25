@@ -1,5 +1,3 @@
-# Pascal Triangle Python
- create pascal triangle in python
 
 Pascal triangle is number pattern is included amazing features.
  - In algebra, A table of the binomial coefficients such as (x + y)^n
